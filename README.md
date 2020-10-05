@@ -8,5 +8,5 @@ A person may utilize the new webpage's search criteria by entering in the filter
 
 ![](static/webpage.PNG)
 
-##Summary
+## Summary
 One drawback of this new design is that it utilizes exact matches, including proper spacing, abbreviations, syntax, and date time structure. Two recommendations for further development would be to allow flexibility in the way texts are entered (ex. upper/lower case) for the search criteria. Additionally, it may be a good idea to add back the filter button that we had previously deleted for a more user friendly interface. 
